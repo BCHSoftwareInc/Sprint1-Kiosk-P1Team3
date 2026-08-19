@@ -20,6 +20,6 @@ Welcome to your team's official codebase for the current development cycle.
 
 ## 👥 Assigned Team Roster
 * **Product Manager (PM):** @NovaAzure
-* **Software Engineer (SE):** @username
+* **Software Engineer (SE):** @Cwolf8688
 * **Cyber Compliance Analyst (CCA):** @MichaelKissinger35
 * **QA Tester (QA):** @KAI-coder-1
