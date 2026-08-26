@@ -1,10 +1,14 @@
-# Cybersecurity Compliance Audit - Sprint 1
-* **Cyber Compliance Analyst:** @MichaelKissinger35
+Cybersecurity Compliance Audit - Sprint 1
 
-### 🛡️ Pre-Deployment Checklist
-- [x] **Input Sanitization:** SE code handles empty input strings without breaking.
-- [x] **PII Protection:** Only required badge fields are captured and echoed.
-- [x] **Workstation Compliance:** Backpacks stowed, seats locked when unattended.
+Cyber Compliance Analyst: @MichaelKissinger35
 
-**Official CCA Clearance Signature:** Michael Kissinger Jr.
+🛡️ Pre-Deployment Checklist
+
+\[ ] Input Sanitization: SE code handles empty input strings without breaking.
+
+\[x] PII Protection: Only required badge fields are captured and echoed.
+
+\[x] Clear prompts: Make sure prompts are clear and easy to understand.
+
+Official CCA Clearance Signature: Michael Kissinger
 
