@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cjwol384\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj": {}
+    "C:\\Users\\kawat339\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cjwol384\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj": {
+    "C:\\Users\\kawat339\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cjwol384\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj",
+        "projectUniqueName": "C:\\Users\\kawat339\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj",
         "projectName": "Signin",
-        "projectPath": "C:\\Users\\cjwol384\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj",
-        "packagesPath": "C:\\Users\\cjwol384\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cjwol384\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\obj\\",
+        "projectPath": "C:\\Users\\kawat339\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\Signin.csproj",
+        "packagesPath": "C:\\Users\\kawat339\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kawat339\\Desktop\\Sprint1-Kiosk-P1Team3\\csharp\\Signin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cjwol384\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kawat339\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
