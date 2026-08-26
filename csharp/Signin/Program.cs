@@ -1,19 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-// See https://aka.ms/new-console-template for more information
-Console.Write("ATTENDIEE: ");
+﻿Console.Write("Enter First and last name: ");
 string name = Console.ReadLine() ?? "";
 
-Console.Write("ORG: ");
+Console.Write("Please enter personal email: ");
 string org = Console.ReadLine() ?? "";
 
-Console.Write("CONTACT: ");
+Console.Write("Please enter phone number: ");
 string contact = Console.ReadLine() ?? "";
 
-Console.Write("ACCSES: ");
+Console.Write("Please enter accses level: ");
 string accses = Console.ReadLine() ?? "";
-
-Console.Write("ISSUERE: ");
-string issure = Console.ReadLine() ?? "";
 
 Console.WriteLine(" +-----------------------------------------------------+");
 Console.WriteLine(" |               APEX ENTERTAINMENT PASS               |");
@@ -22,5 +17,5 @@ Console.WriteLine($" |   ATTENDIEE:      {name,-34}|");
 Console.WriteLine($" |   ORG:            {org,-34}|");
 Console.WriteLine($" |   CONTACT:        {contact,-34}|");
 Console.WriteLine($" |   ACCSES:         {accses,-34}|");
-Console.WriteLine($" |   ISSURE          {issure,-34}|");
+Console.WriteLine($" |   ISSURE:         Blark.Indistires                  |");
 Console.WriteLine(" +-----------------------------------------------------+");
