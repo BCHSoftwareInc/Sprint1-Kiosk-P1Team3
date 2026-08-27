@@ -1,10 +1,10 @@
 ﻿Console.Write("Enter First and last name: ");
 string name = Console.ReadLine() ?? "";
 
-Console.Write("Please enter personal email: ");
+Console.Write("Please enter your departent/role: ");
 string org = Console.ReadLine() ?? "";
 
-Console.Write("Please enter phone number: ");
+Console.Write("Please enter phone number or email: ");
 string contact = Console.ReadLine() ?? "";
 
 Console.Write("Please enter accses level: ");
